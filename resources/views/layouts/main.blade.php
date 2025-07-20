@@ -135,7 +135,7 @@
                             <div class="post-entry-sidebar">
                                 <ul>
                                     <li>
-                                        <a href="">
+                                        <a href="{{ route('post.show') }}">
                                             <img src="/images/img_6.jpg" alt="Image placeholder" class="mr-4">
                                             <div class="text">
                                                 <h4>How to Find the Video Games of Your Youth</h4>
@@ -147,7 +147,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="{{ route('post.show') }}">
                                             <img src="/images/img_3.jpg" alt="Image placeholder" class="mr-4">
                                             <div class="text">
                                                 <h4>How to Find the Video Games of Your Youth</h4>
@@ -159,7 +159,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="{{ route('post.show') }}">
                                             <img src="/images/img_4.jpg" alt="Image placeholder" class="mr-4">
                                             <div class="text">
                                                 <h4>How to Find the Video Games of Your Youth</h4>
